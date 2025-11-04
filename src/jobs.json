@@ -85,31 +85,17 @@
       }
     },
     {
-      "id": "af72",
+      "id": "bc76",
       "type": "Full-Time",
-      "title": "Some test Data",
-      "description": "Test description",
-      "salary": "$150K - $175K",
-      "location": "Test, Location",
-      "company": {
-        "name": "Test Name",
-        "description": "Test Production",
-        "contactEmail": "Test@gmail.com",
-        "contactPhone": "5555555555-555555555"
-      }
-    },
-    {
-      "id": "4541",
-      "type": "Full-Time",
-      "title": "Test 2 Job",
-      "description": "Test description 2",
-      "salary": "$125K - $150K",
+      "title": "test",
+      "description": "Test 2",
+      "salary": "$90K - $100K",
       "location": "Test Location",
       "company": {
         "name": "Test company 2",
-        "description": "Test testing 2",
-        "contactEmail": "Test2@gmailcom",
-        "contactPhone": "52352352-4234234"
+        "description": "test",
+        "contactEmail": "Test@gmail.com",
+        "contactPhone": "12312312-45324"
       }
     }
   ]
