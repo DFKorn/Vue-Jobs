@@ -85,18 +85,18 @@
       }
     },
     {
-      "id": "bc76",
       "type": "Full-Time",
-      "title": "test",
+      "title": "test Dev",
       "description": "Test 2",
-      "salary": "$90K - $100K",
+      "salary": "$125K - $150K",
       "location": "Test Location",
       "company": {
         "name": "Test company 2",
         "description": "test",
         "contactEmail": "Test@gmail.com",
         "contactPhone": "12312312-45324"
-      }
+      },
+      "id": "bc76"
     }
   ]
 }
